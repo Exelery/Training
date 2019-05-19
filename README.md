@@ -1,2 +1,2 @@
 # Training
-This are my useless and easy projects
+These are my useless and easy projects
